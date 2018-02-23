@@ -1,0 +1,43 @@
+.timelineDiv {
+  margin-top: 30px;
+  width: 33%;
+  float: right;
+  position: relative;
+}
+
+.card {
+  height: 100%;
+  position: relative;
+}
+
+.top i {
+  right: 0;
+  position: absolute;
+  top: -20px;
+  font-size: 12px;
+  color: #aaa;
+}
+
+.bottom i {
+  right: 0;
+  position: absolute;
+  font-size: 12px;
+  color: #aaa;
+  left: -55px;
+  right: 0;
+  top: 15px;
+}
+
+.spacer {
+  height: 30px;
+  padding-bottom: 25px;
+}
+
+.dots {
+  position: absolute;
+  right: 21px;
+  height: 70px;
+  margin-top: -57px;
+  display: flex;
+  flex-direction: column;
+}
