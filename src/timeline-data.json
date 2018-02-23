@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "movie_name": "Earth Trailers",
+    "release_date": "2/3/2018",
+    "lead_actor": "Dalton Keck",
+    "sub_genre": "Zombles",
+    "producer": "Tim Cook"
+  },
+  {
+    "id": 2,
+    "movie_name": "Magma Eaters",
+    "release_date": "1/2/2018",
+    "lead_actor": "Dalton Keck",
+    "sub_genre": "Nature",
+    "producer": "Burt Reynolds"
+  },
+  {
+    "id": 3,
+    "movie_name": "Fly Again II",
+    "release_date": "2/13/1989",
+    "lead_actor": "Dalton Keck",
+    "sub_genre": "Insectoid",
+    "producer": "Tim Cook"
+  },
+  {
+    "id": 4,
+    "movie_name": "Lopper",
+    "release_date": "5/23/2012",
+    "lead_actor": "Bruce Willis",
+    "sub_genre": "Thriller",
+    "producer": "Gary Kurtz"
+  },
+  {
+    "id": 5,
+    "movie_name": "Metropolls",
+    "release_date": "7/20/1999",
+    "lead_actor": "Bruce Willis",
+    "sub_genre": "Thriller",
+    "producer": "Tim Cook"
+  },
+  {
+    "id": 6,
+    "movie_name": "Star Wars",
+    "release_date": "11/23/2002",
+    "lead_actor": "MarkHamil",
+    "sub_genre": "Thriller",
+    "producer": "Gary Kurtz"
+  },
+  {
+    "id": 7,
+    "movie_name": "Alien",
+    "release_date": "8/11/1995",
+    "lead_actor": "Harrison Ford",
+    "sub_genre": "Horror",
+    "producer": "Walter Hill"
+  }
+]
